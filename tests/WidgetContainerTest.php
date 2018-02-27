@@ -3,7 +3,7 @@ use BReda\AlphaWidget\WidgetContainer;
 
 class WidgetContainerTest extends PHPUnit_Framework_TestCase
 {
-
+		// #_# 
 	/** @var The WidgetContainer */
 	protected $container;
 
